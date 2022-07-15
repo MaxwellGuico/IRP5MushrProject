@@ -1,0 +1,7 @@
+set(mushr_pf_SETUP_PY_SETUP_MODULE "distutils.core")
+set(mushr_pf_SETUP_PY_VERSION "1.0.0")
+set(mushr_pf_SETUP_PY_SCRIPTS "")
+set(mushr_pf_SETUP_PY_PACKAGES "mushr_pf")
+set(mushr_pf_SETUP_PY_PACKAGE_DIRS "src/mushr_pf")
+set(mushr_pf_SETUP_PY_MODULES "")
+set(mushr_pf_SETUP_PY_MODULE_DIRS "")

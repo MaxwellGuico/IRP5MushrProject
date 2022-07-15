@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_ws/install
+
+Name: mushr_rhc_ros
+Description: Description of mushr_rhc_ros
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime

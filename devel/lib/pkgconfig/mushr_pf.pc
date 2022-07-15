@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_ws/devel
+
+Name: mushr_pf
+Description: Description of mushr_pf
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

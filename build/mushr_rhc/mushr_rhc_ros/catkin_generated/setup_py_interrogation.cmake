@@ -1,0 +1,7 @@
+set(mushr_rhc_ros_SETUP_PY_SETUP_MODULE "distutils.core")
+set(mushr_rhc_ros_SETUP_PY_VERSION "1.0.0")
+set(mushr_rhc_ros_SETUP_PY_SCRIPTS "")
+set(mushr_rhc_ros_SETUP_PY_PACKAGES "mushr_rhc_ros")
+set(mushr_rhc_ros_SETUP_PY_PACKAGE_DIRS "src/mushr_rhc_ros")
+set(mushr_rhc_ros_SETUP_PY_MODULES "")
+set(mushr_rhc_ros_SETUP_PY_MODULE_DIRS "")
